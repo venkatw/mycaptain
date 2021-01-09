@@ -1,0 +1,4 @@
+n = [12,-7,5,64,-14]
+print("list1: ",n)
+b = list(filter(lamba n:n>0,n))
+print("Output: ",b)
